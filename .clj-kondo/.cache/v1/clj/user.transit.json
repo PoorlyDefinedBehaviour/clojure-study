@@ -1,1 +1,1 @@
-["^ ","~$slow-calc",["^ ","~:row",1,"~:col",1,"~:name","^0","~:ns","~$user","~:top-ns",null],"~:filename","/home/bruno/dev/programming-clojure-3rd-edition/chapter-8/postponing-evaluation.clj"]
+["^ ","~$with-out-str",["^ ","~:row",5,"~:col",1,"~:macro",true,"~:varargs-min-arity",0,"~:name","^0","~:ns","~$user","~:top-ns",null],"~:filename","/home/bruno/dev/programming-clojure-3rd-edition/chapter-8/wrapping-evaluation.clj"]
