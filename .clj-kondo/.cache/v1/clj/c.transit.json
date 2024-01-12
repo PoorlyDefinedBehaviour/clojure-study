@@ -1,1 +1,1 @@
-["^ ","~$scale-ingreditn",["^ ","~:row",7,"~:col",1,"~:fixed-arities",["~#set",[2]],"~:name","^0","~:ns","~$c","~:top-ns","~$c","~:arities",["^ ","~i2",["^ ","~:ret","~:associative","~:arglist-str","[ingredient factor]"]],"~:type","~:fn"],"~:filename","/home/bruno/dev/programming-clojure-3rd-edition/chapter-5/spec.clj"]
+["^ ","~$gulp",["^ ","~:row",4,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$c","~:top-ns","~$c","~:type","~:fn"],"~:filename","/home/bruno/dev/programming-clojure-3rd-edition/chapter-7/gulp.clj"]
