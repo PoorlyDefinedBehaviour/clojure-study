@@ -1,1 +1,1 @@
-https://ericnormand.me/guide/clojure-concurrency
+From https://ericnormand.me/guide/clojure-concurrency
