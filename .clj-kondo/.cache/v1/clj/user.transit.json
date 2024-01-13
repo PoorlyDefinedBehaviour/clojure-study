@@ -1,1 +1,1 @@
-["^ ","~$log-lock",["^ ","~:row",1,"~:col",1,"~:name","^0","~:ns","~$user","~:top-ns",null],"~$log",["^ ","^1",3,"^2",1,"~:varargs-min-arity",0,"^3","^7","^4","^5","^6",null,"~:type","~:fn"],"~:filename","/home/bruno/dev/programming-clojure-3rd-edition/clojure-concurrency/lock.clj"]
+["^ ","~$number-chan",["^ ","~:row",3,"~:col",1,"~:name","^0","~:ns","~$user","~:top-ns",null],"~$sum",["^ ","^1",5,"^2",1,"^3","^7","^4","^5","^6",null,"~:type","~:atom"],"~:filename","/home/bruno/dev/programming-clojure-3rd-edition/clojure-concurrency/async.clj"]
