@@ -1,0 +1,1 @@
+From https://ericnormand.me/guide/clojure-collections#patterns
